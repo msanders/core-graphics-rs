@@ -20,4 +20,5 @@ pub mod event;
 pub mod event_source; 
 pub mod font;
 pub mod geometry;
+pub mod image;
 pub mod private;
